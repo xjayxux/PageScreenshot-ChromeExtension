@@ -1,0 +1,1 @@
+# PageScreenshot-ChromeExtension
